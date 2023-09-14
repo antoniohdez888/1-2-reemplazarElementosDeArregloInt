@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">1-2-reemplazarElementosDeArregloInt</string>
+    <string name="btnGenerarArrOrgnl">Crear Arreglo Aleatorio</string>
+    <string name="txtArrOrgnl"></string>
+    <string name="btnCrearNuevoArr">Reemplazar Elemento</string>
+    <string name="txtNuevoArr"></string>
+    <string name="btnCancelar">Cancelar</string>
+</resources>
